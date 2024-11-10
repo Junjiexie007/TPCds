@@ -1,0 +1,10 @@
+How to get datasets:
+You can access the TPC-DS benchmark dataset through the TPC (Transaction Processing Performance Council) official website. The TPC provides the necessary tools to generate the data, such as dsdgen for data generation and dsqgen for query generation. The benchmark's specification document lists these tools and explains their usage in generating the dataset for testing and benchmarking.
+
+You can visit the TPC-DS page on TPC's official website to download the tools and additional materials needed to generate the dataset as described in the TPC-DS standard.
+
+After getting the dataset in csv format, name the folder data and put it in the same directory as run2.
+
+Open cmd and output neo4j console command to enable neo4j.
+
+Finally, just run the run.py file in the python environment​
